@@ -23,6 +23,10 @@ tags:
 
 ~~필자는 17학번이라 이런걸 못해봣다. ㅠ~~
 
+---
+
+*경고* 아래에는 문제와 풀이가 같이 있으므로 제대로 풀어보려면 내리지말고 아래 링크로 문제를 읽고 풀어보세요.
+
 ## 2018학년도
 
 - [18학년도 문제 보기](https://site.hanyang.ac.kr/web/go/10?p_p_id=board_WAR_bbsportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_board_WAR_bbsportlet_fileId=517762&_board_WAR_bbsportlet_cmd=download&_board_WAR_bbsportlet_messageId=518665&_board_WAR_bbsportlet_messageId=518665&_board_WAR_bbsportlet_sCategoryId=0&_board_WAR_bbsportlet_sDisplayType=1&_board_WAR_bbsportlet_action=view_message&_board_WAR_bbsportlet_sCurPage=2)
