@@ -8,11 +8,13 @@ tags:
 - Practice
 ---
 
+![](https://i.imgur.com/qt5j6ro.png)
+
 ## 팀 결성
 
 ### 팀원 
 
-2020년 02월 04일 작년에 같이 휴학생으로 연습한 dtc03012  ![dtc03012](https://run.kaist.ac.kr/badges/codeforces/dtc03012.svg) 한테 연락이 와서 올해 같이 PS팀을 하기로 했다. 작년 신입생으로 들어온 Lemonade255 ![Lemonade255](https://run.kaist.ac.kr/badges/codeforces/Lemonade255.svg) 과 셋이서 같이 UCPC, ICPC등을 나가기로 약속을 했다.
+2020년 02월 04일 작년에 같이 휴학생으로 연습한 dtc03012 한테 연락이 와서 올해 같이 PS팀을 하기로 했다. 작년 신입생으로 들어온 Lemonade255  과 셋이서 같이 UCPC, ICPC등을 나가기로 약속을 했다.
 
 ### 목표
 
