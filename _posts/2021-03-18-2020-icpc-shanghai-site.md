@@ -1,5 +1,5 @@
 ---
-title:  "2021 Reply Challenge 간단한 후기"
+title:  "2021 ICPC Shanghai Site 연습"
 date:   2021-03-18 00:00:00
 categories:
 - Algorithm
@@ -7,6 +7,8 @@ tags:
 - Contest
 - Practice
 ---
+
+![](https://i.imgur.com/8tBp3l0.png)
 
 ## 두번째 팀 연습
 
