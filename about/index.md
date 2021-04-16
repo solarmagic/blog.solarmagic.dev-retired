@@ -3,6 +3,7 @@ layout: page
 type: about
 ---
 
+Click below link to view CV file
 # [Curriculum Vitae](CV_Beomgyu_Kim.pdf) 
 
 (Last Update: 2021/04/16)
