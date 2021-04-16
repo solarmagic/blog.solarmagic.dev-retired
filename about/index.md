@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-TODO
+[CV](CV_Beomgyu_Kim.pdf)
