@@ -23,15 +23,15 @@ tags:
 
 ## 백준 17163번 결과
 
-- [stack<int>](http://boj.kr/4ab6459501e9452a941a76cd802ad2f7) 
+- [`stack<int>`](http://boj.kr/4ab6459501e9452a941a76cd802ad2f7) 
 
 ![](https://i.imgur.com/VGib4te.png)
 
-- [stack<int, vector<int>>](http://boj.kr/0e9c2af330f4479492db90eba67b6906)
+- [`stack<int, vector<int>>`](http://boj.kr/0e9c2af330f4479492db90eba67b6906)
 
 ![](https://i.imgur.com/DBwIeVR.png)
 
-- [stack<int, list<int>>](http://boj.kr/a5463e83ac934019912095b339b96776)
+- [`stack<int, list<int>>`](http://boj.kr/a5463e83ac934019912095b339b96776)
 
 ![](https://i.imgur.com/O2BlDgg.png)
 
