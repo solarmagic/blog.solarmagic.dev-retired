@@ -1,5 +1,5 @@
 ---
-title:  [TIL] std::vector 보다 std::stack 이 더 메모리를 많이 먹는다?
+title: "[TIL] std::vector 보다 std::stack 이 더 메모리를 많이 먹는다?"
 date: 2021-04-16 00:00:00
 categories:
 - TIL
