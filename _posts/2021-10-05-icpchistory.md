@@ -1,5 +1,5 @@
 ---
-title: "SWERC 2020 팀연습 후기"
+title: "ICPC와 한국"
 date: 2021-06-01 00:00:00
 categories:
 - ICPC
@@ -8,12 +8,14 @@ tags:
 - ICPC
 ---
 
+![](https://i.imgur.com/nKlKLgQ.png)
+
 # ICPC 와 한국팀의 도전기
 
 한국팀이 2021년에 열린 ICPC World Finals Moscow에서 놀라운 성과를 보여주었다. 역대 최고 성적인 2등을 기록하면서 금메달을 목에 걸었다. ICPC 기록을 누군가 정리한 글이 따로 없어서 한번 인터넷에서 자료를 모아서 정리해보았다.
 
 ## ICPC는 무엇인가?
-![](https://i.imgur.com/nKlKLgQ.png)
+
 
 과거 ACM-ICPC 불렸던 ICPC(International Collegiate Programming Contest, 국제대학생프로그래밍대회)는 1970년 텍사스에서 UPE Computer Science Honor Society가 주최한 경진대회에서 그 아이디어를 얻어 1977년 ACM의 주최로 첫 대회를 개최하였다. 이후 2017년까지 ACM의 주최로 ACM-ICPC로 불리다 현재는 ICPC로 이름을 바꾸었다. 전 세계 각지의 우수한 대학들의 우수한 인재들의 두뇌 경진 대회라 할 수 있다.
 
@@ -142,6 +144,8 @@ ICPC 대회에서는 대학을 대표하는 3명의 학생이 여러 단계의 �
 
 ## 참고자료
 
-https://soyoja.com/91
-https://www.koreascience.or.kr/article/JAKO200725522697398.pdf
-https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest
+- https://soyoja.com/91
+
+- https://www.koreascience.or.kr/article/JAKO200725522697398.pdf
+
+- https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest
