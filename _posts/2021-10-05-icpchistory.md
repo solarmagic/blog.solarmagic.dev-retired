@@ -1,6 +1,6 @@
 ---
 title: "ICPC와 한국"
-date: 2021-06-01 00:00:00
+date: 2021-10-05 00:00:00
 categories:
 - ICPC
 tags:
