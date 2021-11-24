@@ -1,5 +1,5 @@
 ---
-title: "백준[BOJ] 1577번 제곱 ㄴㄴ"
+title: "백준[BOJ] 1557번 제곱 ㄴㄴ"
 date: 2021-11-23 00:00:00
 categories:
 - BOJ
