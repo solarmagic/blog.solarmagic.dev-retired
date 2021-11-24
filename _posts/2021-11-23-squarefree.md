@@ -379,7 +379,7 @@ $\begin{align}Q(x) &\approx x\prod_{p\ \text{prime}} \left(1-\frac{1}{p^2}\right
 
 임을 알 수 있다.
 
-리만 제타 함수 $\zeta(2)$ 는 Bessel Problem 이라는 문제로도 유명하며 이 값에 [왜 $\pi$가 나오는지는 아주 잘 설명해주는 영상](https://youtu.be/d-o3eB9sfls)이 있다. 
+리만 제타 함수 $\zeta(2)$ 는 Basel Problem 이라는 문제로도 유명하며 이 값에 [왜 $\pi$가 나오는지는 아주 잘 설명해주는 영상](https://youtu.be/d-o3eB9sfls)이 있다. 
 
 또한 $Q(x) =  \frac{6x}{\pi^2} + O\left(\sqrt{x}\right)$ 라는것이 알려져 있으며 [2015년 논문](https://www.sciencedirect.com/science/article/pii/S0022314X15002462)에서는 $O(x^{11/35+\epsilon})$ 이라고 오차항이 더 작음을 증명했다. 어쨋든 간에 $Q(x)$와 $x$ 사이의 관계가 $6/\pi^2$에서 크게 벗어나지 않음을 알 수 있다. 이를 이용하면 이분 탐색의 L~R범위의 후보를 줄일 수가 있다.
 
