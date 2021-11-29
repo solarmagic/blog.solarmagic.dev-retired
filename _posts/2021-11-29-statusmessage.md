@@ -51,7 +51,7 @@ int main(int argc, char *argv[])
     double v = *(double*)buf;
     int shl = 0;
     for (; v < 10; v *= 2) ++shl;
-    printf("double k[]={%.15f,%d};main(){k[1]--?k[0]/=2,main():puts(k);}", v, shl);
+    printf("double k[]={ %.15f,%d};main(){k[1]--?k[0]/=2,main():puts(k);}", v, shl);
     return 0;
 }
 ```
